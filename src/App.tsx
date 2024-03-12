@@ -13,7 +13,7 @@ function Welcome() {
     return (
         <div className="welcome">
             <h1>NCAA College Basketball Teams</h1>
-            <p>This website is a list of all colleges in NCAA Basketball.</p>
+            <p>This website lists all of the NCAA Basketball teams.</p>
         </div>
     );
 }

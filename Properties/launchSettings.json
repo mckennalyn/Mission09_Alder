@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Mission09_Alder": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53077;http://localhost:53078"
+    }
+  }
+}

@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="prettierrc" />
+    <Content Remove="tsconfig.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="prettierrc" />
+    <None Include="tsconfig.json" />
   </ItemGroup>
 
 </Project>
