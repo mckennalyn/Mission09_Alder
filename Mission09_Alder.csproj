@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="prettierrc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="prettierrc" />
+  </ItemGroup>
+
 </Project>
